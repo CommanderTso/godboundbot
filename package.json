@@ -1,0 +1,10 @@
+{
+  "name": "godboundbot",
+  "version": "0.1",
+  "description": "A Discord bot for the Godbound tabletop role playing game.",
+  "main": "index.js",
+  "repository": "https://github.com/CommanderTso/godboundbot",
+  "author": "Scott Macmillan",
+  "license": "MIT",
+  "private": false
+}
